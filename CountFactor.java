@@ -22,6 +22,6 @@ public class CountFactor {
     			count += 2;
     		}
     	}
-    	    	System.out.print("Number of Factors: " +count); // add comment
+    	    	System.out.print("Number of Factors: " +count);
     }     
 }
